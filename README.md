@@ -13,6 +13,7 @@ There are a total of seven algorithms implemented: <br>
 5.  [reverse delete](./reverse_delete) <br>
 6.  [tarjan](./tarjan) <br>
 7.  [welsh_powell](./welsh_powell) <br>
+<!-- -->
 The above said algorithms are placed in their dedicated folders. <br>
 The [include](./include) folder contains the implementation of the following <br>
 1.  [Disjoint Set Union](./include/dsu.hpp) <br>
