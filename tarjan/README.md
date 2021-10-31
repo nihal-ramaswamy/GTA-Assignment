@@ -1,5 +1,5 @@
 # Tarjan's Algorithm
-Finds all the articulation points in the given graph.
+Finds all the articulation points in the given graph. <br>
 
 ## Output
-Prints all the articulation points in the given graph.
+Prints all the articulation points in the given graph. <br>
